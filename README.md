@@ -1,5 +1,6 @@
 # AkunCOC002 
 ![Screenshot_2025-07-06-19-20-50-340_com supercell clashofclans](https://github.com/user-attachments/assets/ab5248bf-b09e-4e88-bd06-36b341fb5993) 
+Harga = 280.000 IDR/73 RM/13 USD<br>
 Desa Asal<br>
 Leader CLan LV 6<br>
 TownHall : 13 <br>
